@@ -6,9 +6,9 @@
         <br>
     </h1>
 </span>
-
-<img src="gif/preview.gif" align="center">
-
+<div align="center">
+    <img src="gif/preview.gif">
+</div>
 ## Subject:
 
 * My_top is a reproduction of the command top with:
