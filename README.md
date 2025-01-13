@@ -7,7 +7,7 @@
     </h1>
 </span>
 
-<img src="img/preview.gif">
+<img src="gif/preview.gif">
 
 ## Subject:
 
@@ -16,6 +16,7 @@
     * flags -n (number of frame where the program should run)
     * 'DownArrowKey' to navigate down between different programs
     * 'UpArrowKey' to navigate up between different programs
+    * 'Q Key' to exit the command
 * all of the information taken by my_top is from the /proc directory or from the  /etc/passwd file
 
 ## How To Use
