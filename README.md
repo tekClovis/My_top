@@ -7,7 +7,7 @@
     </h1>
 </span>
 
-<img src="gif/preview.gif">
+<img src="gif/preview.gif" align="center">
 
 ## Subject:
 
